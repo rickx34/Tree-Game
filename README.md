@@ -4,6 +4,7 @@ if your goal is scissors then your infix expression could be (scissors+papers). 
  
  S
 / \
+
 S  P
 
 You can modify and manoeuvre around the tree to meet your generate goal by using these commands:
