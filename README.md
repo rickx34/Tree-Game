@@ -4,7 +4,7 @@ if your goal is scissors then your infix expression could be (scissors+papers). 
  
  S
  
- / \
+   / \
 
 S  P
 
