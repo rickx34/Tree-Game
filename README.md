@@ -4,7 +4,9 @@ if your goal is scissors then your infix expression could be (scissors+papers). 
  S
 / \
 S  P
+
 You can modify and manoeuvre around the tree to meet your generate goal by using these commands:
+
 – **new**: Start a new game.
 – **Create** : a new element tree by giving an infix expression.
 – **left**: Move left down the tree.
