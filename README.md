@@ -8,7 +8,7 @@ if your goal is scissors then your infix expression could be (scissors+papers). 
 
 S  P
 
-You can modify and manoeuvre around the tree to meet your generate goal by using these commands:
+You can modify and manoeuvre around the tree to meet your generated goal by using these commands:
 
 – **new**: Start a new game.
 
@@ -25,7 +25,7 @@ You can modify and manoeuvre around the tree to meet your generate goal by using
 – **flip**: Flip the subtrees of the current node.
 
 Current position within the tree is indicated by "<+>" sign.
-The context I choose to use in this game is Rock Paper Scissors Lizard Spock From Big Bang Theory. The Rules are shown below:
+The context I choose to use in this game is Rock Paper Scissors Lizard Spock From Big Bang Theory tv series. The Rules are shown below:
 ![alt tag](http://www.genevacsd.org/webpages/bsenack/imageGallery/rpsls.jpg)
 
 =========
