@@ -16,13 +16,17 @@ You can modify and manoeuvre around the tree to meet your generate goal by using
 
 – **left**: Move left down the tree.
 
-– **right**: Move left down the tree.
+– **right**: Move right down the tree.
 
 – **up**: Change the current node to the parent of the current node.
 
 – **rotate**: Rotate the current node up towards the root.
 
 – **flip**: Flip the subtrees of the current node.
+
+Current position within the tree is indicated by "<+>" sign.
+The context I choose to use in this game is Rock Paper Scissors Lizard Spock From Big Bang Theory. The Rules are shown below:
+![alt tag](http://www.genevacsd.org/webpages/bsenack/imageGallery/rpsls.jpg)
 
 =========
 
