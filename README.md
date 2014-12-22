@@ -3,6 +3,7 @@ You may then enter your infix expression in order to create a virtual tree data 
 if your goal is scissors then your infix expression could be (scissors+papers). This creates a virtual tree data structure,
  
  S
+ 
 / \
 
 S  P
