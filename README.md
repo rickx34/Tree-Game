@@ -1,6 +1,7 @@
 The objective of this game is to meet the goal generated when you run TreeGame.java.
 You may then enter your infix expression in order to create a virtual tree data structure, e.g.
 if your goal is scissors then your infix expression could be (scissors+papers). This creates a virtual tree data structure,
+ 
  S
 / \
 S  P
