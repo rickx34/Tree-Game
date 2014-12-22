@@ -8,13 +8,18 @@ S  P
 You can modify and manoeuvre around the tree to meet your generate goal by using these commands:
 
 – **new**: Start a new game.
-– **Create** : a new element tree by giving an infix expression.
-– **left**: Move left down the tree.
-– **right**: Move left down the tree.
-– **up**: Change the current node to the parent of the current node.
-– **rotate**: Rotate the current node up towards the root.
-– **flip**: Flip the subtrees of the current node.
 
+– **Create** : a new element tree by giving an infix expression.
+
+– **left**: Move left down the tree.
+
+– **right**: Move left down the tree.
+
+– **up**: Change the current node to the parent of the current node.
+
+– **rotate**: Rotate the current node up towards the root.
+
+– **flip**: Flip the subtrees of the current node.
 
 =========
 
