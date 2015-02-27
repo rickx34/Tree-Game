@@ -3,6 +3,7 @@
 *Ricky Dua - 1243947
 *Equal Contribution
 */
+package Assignment3;
 import Assignment3.BigBangElement.InvalidElementException;
 
 public class ElementTree {
