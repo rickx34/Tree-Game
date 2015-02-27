@@ -25,7 +25,7 @@ You can modify and manoeuvre around the tree to meet your generated goal by usin
 – **flip**: Flip the subtrees of the current node.
 
 Current position within the tree is indicated by "<+>" sign.
-The context I to used in this game which are, Rock Paper Scissors Lizard Spock, are From Big Bang Theory tv series. The Rules are shown below:
+The context I used in this game which are, Rock Paper Scissors Lizard Spock, are From Big Bang Theory tv series. The Rules are shown below:
 ![alt tag](http://www.genevacsd.org/webpages/bsenack/imageGallery/rpsls.jpg)
 
 =========
