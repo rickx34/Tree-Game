@@ -4,6 +4,7 @@
 *Ricky Dua - 1243947
 *Equal Contribution
 */
+package Assignment3;
 public class BigBangElement {
 	Element[][] table;
 	Element element;
